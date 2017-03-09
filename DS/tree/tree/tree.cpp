@@ -43,7 +43,7 @@ struct node
  *
  * \param [in] root  root node of tree
  * \param [in] data to be inserted in tree
- * \return tree node of root
+ * \return root node of tree
  *
  * \author Bharat Pawar
  * \date 03/09/2017
@@ -80,6 +80,19 @@ struct node * find_max(struct node *root)
 	return nullptr;
 }
 
+/**
+ * \fn struct node * search(struct node * root, int iElement)
+ *
+ * \brief This function searches specific element in tree and returns node having that element
+ *
+ * \param [in] root  root node of tree
+ * \param [in] iElement element to be searched in tree
+ * \return root node of tree
+ *
+ * \author Bharat Pawar
+ * \date 03/09/2017
+**/
+
 struct node * search(struct node * root, int iElement)
 {
 	if(nullptr == root)
@@ -103,6 +116,18 @@ struct node * search(struct node * root, int iElement)
 	}
 }
 
+/**
+ * \fn void traverse(struct node *root, tree_order order)
+ *
+ * \brief This function display elements in a tree in specified order
+ *
+ * \param [in] root  root node of tree
+ * \param [in] order order in which tree can be displayed like inorder, preoder, postorder
+ * \return void
+ *
+ * \author Bharat Pawar
+ * \date 03/09/2017
+**/
 
 void traverse(struct node *root, tree_order order)
 {
@@ -131,6 +156,17 @@ void traverse(struct node *root, tree_order order)
 	}
 }
 
+/**
+ * \fn int countnodes(struct node *root)
+ *
+ * \brief This function Counts number of elements present in a tree
+ *
+ * \param [in] root  root node of tree
+ * \return Number of elements present in tree
+ *
+ * \author Bharat Pawar
+ * \date 03/09/2017
+**/
 int countnodes(struct node *root)
 {
 	static int icount = 0;
