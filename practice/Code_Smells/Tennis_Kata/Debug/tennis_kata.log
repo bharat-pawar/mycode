@@ -1,0 +1,15 @@
+﻿Build started 10/30/2018 5:49:19 PM.
+     1>Project "D:\Personal\mycode\Tennis_Kata\tennis_kata.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt test_suite.tests.cpp
+         test_suite.tests.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Personal\mycode\Tennis_Kata\Debug\tennis_kata.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Personal\mycode\Tennis_Kata\Debug\tennis_kata.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Personal\mycode\Tennis_Kata\Debug\tennis_kata.lib" /MACHINE:X86 Debug\all_tests.obj
+         Debug\tennis1.obj
+         Debug\test_suite.tests.obj
+         tennis_kata.vcxproj -> D:\Personal\mycode\Tennis_Kata\Debug\tennis_kata.exe
+     1>Done Building Project "D:\Personal\mycode\Tennis_Kata\tennis_kata.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.85

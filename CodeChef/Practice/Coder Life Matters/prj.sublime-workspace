@@ -1,0 +1,423 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"c",
+				"count"
+			],
+			[
+				"cou",
+				"cout"
+			],
+			[
+				"p",
+				"push_back"
+			],
+			[
+				"vec",
+				"vecUtilised"
+			],
+			[
+				"v",
+				"vec"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "#include<iostream>\n#include<vector>\n#include<string>\n#include<algorithm>\nusing namespace std;\n\n#define mytemplate true\n\nint main(int argc, char const *argv[])\n{\n\n#if mytemplate\n\n\tfreopen(\"input.txt\",\"r\",stdin);\n\tfreopen(\"output.txt\",\"w\",stdout);\n\tfreopen(\"error.txt\",\"w\",stderr);\n\tios::sync_with_stdio(false);\n\tcin.tie(NULL);\n\tcout.tie(NULL);\n\tcerr.tie(NULL);\n\n#endif\n\n\tint t;\n\tcin>>t;\n\n\tshort **daysArr;\n\tdaysArr = new short*[t];\n\n\tfor(int i = 0; i < t; i++)\n\t{\n\t\tdaysArr[i] = new short[30];\n\t\tfor(int j = 0; j < 30; j++)\n\t\t{\n\t\t\tcin>>daysArr[i][j];\n\t\t}\n\t}\n\n\tstd::vector<short> v;\n\tfor(int i = 0; i < t; i++)\n\t{\n\t\tint count = 0;\n\t\tfor(int j = 0; j < 30; j++)\n\t\t{\n\t\t\tif(1 == daysArr[i][j])\n\t\t\t{\n\t\t\t\tcount++;\n\t\t\t}\n\t\t\t\n\t\t\tif(daysArr[i][j] != daysArr[i][j+1])\n\t\t\t{\n\t\t\t\tif(count > 5)\n\t\t\t\t{\n\t\t\t\t\tbreak;\n\t\t\t\t}\n\t\t\t\telse\n\t\t\t\t{\n\t\t\t\t\tcount = 0;\n\t\t\t\t}\n\t\t\t}\n\t\t}\n\n\t\tif(count <=5)\n\t\t{\n\t\t\tv.push_back(1);\n\t\t}\n\t\telse\n\t\t{\n\t\t\tv.push_back(0);\n\t\t}\n\t}\n\n\tfor(int i = 0; i < t; i++)\n\t{\n\t\tif(1 == v[i])\n\t\t{\n\t\t\tcout<<\"#allcodersarefun\"<<endl;\n\t\t}\n\t\telse\n\t\t{\n\t\t\tcout<<\"#coderlifematters\"<<endl;\n\t\t}\n\t}\n\t\t\n\treturn 0;\n\t\n\t\n}\n",
+			"file": "source.cpp",
+			"file_size": 1241,
+			"file_write_time": 132343390670377576,
+			"settings":
+			{
+				"buffer_size": 1095,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "input.txt",
+			"settings":
+			{
+				"buffer_size": 241,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "error.txt",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "output.txt",
+			"settings":
+			{
+				"buffer_size": 70,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/C++/C++ Single File.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Personal/Study/Workplace/mycode/other/template_project/template_prj.sublime-project"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "source.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1095,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								93,
+								93
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "input.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 241,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								241,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "error.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "output.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 70,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				3
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			],
+			[
+				1,
+				2,
+				2,
+				3
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.640104166667,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.333333333333,
+			0.666666666667,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 179.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "prj.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				3
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			],
+			[
+				1,
+				2,
+				2,
+				3
+			]
+		]
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}

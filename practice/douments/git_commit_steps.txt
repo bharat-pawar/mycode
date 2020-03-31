@@ -1,0 +1,5 @@
+git clone https://github.com/bharat-pawar/DataStructures.git
+git add -all
+git status
+git commit --amen
+git push --force
