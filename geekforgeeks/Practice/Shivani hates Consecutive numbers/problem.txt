@@ -1,0 +1,25 @@
+While attending Geeks Classes, Shivani went through a question in which an array was given and she was asked to maximize the sum by picking some elements from the array so that after selecting an element A[i] from array, delete one occurrence of A[i]-1 (If array size becomes 1, you can include that single element in sum). But, she got stuck and asked you for help. Help Shivani in solving this question.
+Note : Elements to be selected are from maximum to minimum.
+
+Input :
+The first line of the input contains T  denoting the number of the test cases. For each test case T, the first line contains an integer N denoting the size of the array. Next line contains N space separated integers denoting the elements of the array.
+
+Output :
+For each test case, the output is an integer displaying the maximum sum of selected numbers.
+
+Constraints :
+1 <= T <= 100
+1 <= n <= 50
+1 <= A[i] <= 20
+
+Example :
+Input
+2
+3
+1 2 3
+6
+1 2 2 2 3 4
+Output
+4
+10
+ 

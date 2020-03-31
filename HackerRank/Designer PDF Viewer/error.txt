@@ -1,0 +1,1 @@
+   4124 [main] source 38692 cygwin_exception::open_stackdumpfile: Dumping stack trace to source.exe.stackdump

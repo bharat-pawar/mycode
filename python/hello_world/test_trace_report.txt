@@ -1,0 +1,731 @@
+758 "H3SZSA_SRS_361;testcase_100000001,testcase_100000001.cpp;",
+
+759 "H3SZSA_SRS_361;testcase_500000001,testcase_500000001.cpp;",
+
+760 "H3SZSA_SRS_361;testcase_500000002,testcase_500000002.cpp;",
+
+890 H3SZSA_SRS_15;testcase_100000001;H3SZS-Adapter: Debuglevel for the oppression of the Sahara connection tear-down at transgression of the telegram running time,
+
+891 H3SZSA_SRS_15;testcase_100000002;H3SZS-Adapter: Debuglevel for the oppression of the Sahara connection tear-down at transgression of the telegram running time,
+
+892 H3SZSA_SRS_15;testcase_100000003;H3SZS-Adapter: Debuglevel for the oppression of the Sahara connection tear-down at transgression of the telegram running time,
+
+893 H3SZSA_SRS_15;testcase_100000004;H3SZS-Adapter: Debuglevel for the oppression of the Sahara connection tear-down at transgression of the telegram running time,
+
+894 H3SZSA_SRS_15;testcase_100000005;H3SZS-Adapter: Debuglevel for the oppression of the Sahara connection tear-down at transgression of the telegram running time,
+
+895 H3SZSA_SRS_15;testcase_100000006;H3SZS-Adapter: Debuglevel for the oppression of the Sahara connection tear-down at transgression of the telegram running time,
+
+896 H3SZSA_SRS_15;testcase_100000007;H3SZS-Adapter: Debuglevel for the oppression of the Sahara connection tear-down at transgression of the telegram running time,
+
+897 H3SZSA_SRS_15;testcase_100000008;H3SZS-Adapter: Debuglevel for the oppression of the Sahara connection tear-down at transgression of the telegram running time,
+
+898 H3SZSA_SRS_15;testcase_100000009;H3SZS-Adapter: Debuglevel for the oppression of the Sahara connection tear-down at transgression of the telegram running time,
+
+899 H3SZSA_SRS_15;testcase_100000010;H3SZS-Adapter: Debuglevel for the oppression of the Sahara connection tear-down at transgression of the telegram running time,
+
+900 H3SZSA_SRS_15;testcase_100000011;H3SZS-Adapter: Debuglevel for the oppression of the Sahara connection tear-down at transgression of the telegram running time,
+
+901 H3SZSA_SRS_15;testcase_100000012;H3SZS-Adapter: Debuglevel for the oppression of the Sahara connection tear-down at transgression of the telegram running time,
+
+902 H3SZSA_SRS_15;testcase_100000013;H3SZS-Adapter: Debuglevel for the oppression of the Sahara connection tear-down at transgression of the telegram running time,
+
+903 H3SZSA_SRS_15;testcase_100000014;H3SZS-Adapter: Debuglevel for the oppression of the Sahara connection tear-down at transgression of the telegram running time,
+
+904 H3SZSA_SRS_15;testcase_100000015;H3SZS-Adapter: Debuglevel for the oppression of the Sahara connection tear-down at transgression of the telegram running time,
+
+905 H3SZSA_SRS_15;testcase_100000016;H3SZS-Adapter: Debuglevel for the oppression of the Sahara connection tear-down at transgression of the telegram running time,
+
+907 H3SZSA_SRS_529;testcase_800000001;ESF 3.6 / Eulynx base development,
+
+908 H3SZSA_SRS_529;testcase_800000002;ESF 3.6 / Eulynx base development,
+
+909 H3SZSA_SRS_529;testcase_800000003;ESF 3.6 / Eulynx base development,
+
+910 H3SZSA_SRS_529;testcase_800000004;ESF 3.6 / Eulynx base development,
+
+911 H3SZSA_SRS_529;testcase_800000005;ESF 3.6 / Eulynx base development,
+
+912 H3SZSA_SRS_567;testcase_800000001;ESF 3.6 / Eulynx base development,
+
+913 "H3SZSA_SRS_567;testcase_800000001;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+914 H3SZSA_SRS_567;testcase_800000002;ESF 3.6 / Eulynx base development,
+
+915 "H3SZSA_SRS_567;testcase_800000002;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+916 H3SZSA_SRS_567;testcase_800000003;ESF 3.6 / Eulynx base development,
+
+917 "H3SZSA_SRS_567;testcase_800000003;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+918 H3SZSA_SRS_567;testcase_800000004;ESF 3.6 / Eulynx base development,
+
+919 "H3SZSA_SRS_567;testcase_800000004;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+920 H3SZSA_SRS_567;testcase_800000005;ESF 3.6 / Eulynx base development,
+
+921 "H3SZSA_SRS_567;testcase_800000005;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+922 "H3SZSA_SRS_567;testcase_800000006;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+923 "H3SZSA_SRS_567;testcase_800000007;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+924 "H3SZSA_SRS_567;testcase_800000008;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+925 "H3SZSA_SRS_567;testcase_800000009;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+926 "H3SZSA_SRS_567;testcase_800000010;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+927 "H3SZSA_SRS_567;testcase_800000011;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+928 "H3SZSA_SRS_567;testcase_800000012;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+929 "H3SZSA_SRS_567;testcase_800000013;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+930 "H3SZSA_SRS_567;testcase_800000014;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+931 "H3SZSA_SRS_567;testcase_800000015;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+932 "H3SZSA_SRS_567;testcase_800000016;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+933 "H3SZSA_SRS_567;testcase_800000017;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+934 "H3SZSA_SRS_567;testcase_800000018;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+935 "H3SZSA_SRS_567;testcase_800000019;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+936 "H3SZSA_SRS_567;testcase_800000020;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+937 "H3SZSA_SRS_567;testcase_800000021;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+938 "H3SZSA_SRS_567;testcase_800000022;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+939 "H3SZSA_SRS_567;testcase_800000023;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+940 "H3SZSA_SRS_567;testcase_800000024;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+941 "H3SZSA_SRS_567;testcase_800000025;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+942 "H3SZSA_SRS_567;testcase_800000026;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+943 "H3SZSA_SRS_567;testcase_800000027;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+944 "H3SZSA_SRS_567;testcase_800000028;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+945 "H3SZSA_SRS_567;testcase_800000029;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+946 "H3SZSA_SRS_567;testcase_800000030;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+947 "H3SZSA_SRS_567;testcase_800000031;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+948 "H3SZSA_SRS_567;testcase_800000032;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+949 "H3SZSA_SRS_567;testcase_800000033;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+950 "H3SZSA_SRS_567;testcase_800000034;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+951 "H3SZSA_SRS_567;testcase_800000035;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+952 "H3SZSA_SRS_567;testcase_800000036;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+953 "H3SZSA_SRS_567;testcase_800000037;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+954 "H3SZSA_SRS_567;testcase_800000038;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+955 "H3SZSA_SRS_567;testcase_800000039;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+956 "H3SZSA_SRS_567;testcase_800000040;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+957 "H3SZSA_SRS_567;testcase_800000041;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+958 "H3SZSA_SRS_567;testcase_800000042;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+959 "H3SZSA_SRS_567;testcase_800000043;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+960 "H3SZSA_SRS_567;testcase_800000044;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+961 "H3SZSA_SRS_567;testcase_800000045;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+962 "H3SZSA_SRS_567;testcase_800000046;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+963 "H3SZSA_SRS_567;testcase_800000047;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+964 "H3SZSA_SRS_567;testcase_800000048;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+965 "H3SZSA_SRS_567;testcase_800000049;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+966 "H3SZSA_SRS_567;testcase_800000051;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+967 "H3SZSA_SRS_567;testcase_800000052;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+968 "H3SZSA_SRS_567;testcase_800000053;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+969 "H3SZSA_SRS_567;testcase_800000054;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+970 "H3SZSA_SRS_567;testcase_800000055;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+971 "H3SZSA_SRS_567;testcase_800000060;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+972 "H3SZSA_SRS_567;testcase_800000061;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+973 "H3SZSA_SRS_567;testcase_800000062;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+974 "H3SZSA_SRS_567;testcase_800000063;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+975 "H3SZSA_SRS_567;testcase_800000064;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+976 "H3SZSA_SRS_567;testcase_800000065;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+977 H3SZSA_SRS_529;testcase_100000001;ESF 3.6 / Eulynx base development,
+
+978 H3SZSA_SRS_529;testcase_100000003;ESF 3.6 / Eulynx base development,
+
+979 H3SZSA_SRS_529;testcase_100000004;ESF 3.6 / Eulynx base development,
+
+980 H3SZSA_SRS_529;testcase_400000009;ESF 3.6 / Eulynx base development,
+
+981 H3SZSA_SRS_529;testcase_400000055;ESF 3.6 / Eulynx base development,
+
+982 H3SZSA_SRS_529;testcase_400000058;ESF 3.6 / Eulynx base development,
+
+983 H3SZSA_SRS_529;testcase_400000059;ESF 3.6 / Eulynx base development,
+
+984 H3SZSA_SRS_529;testcase_400000060;ESF 3.6 / Eulynx base development,
+
+985 H3SZSA_SRS_529;testcase_400000061;ESF 3.6 / Eulynx base development,
+
+986 H3SZSA_SRS_529;testcase_400000062;ESF 3.6 / Eulynx base development,
+
+987 H3SZSA_SRS_529;testcase_400000063;ESF 3.6 / Eulynx base development,
+
+988 H3SZSA_SRS_529;testcase_400000064;ESF 3.6 / Eulynx base development,
+
+989 H3SZSA_SRS_529;testcase_400000065;ESF 3.6 / Eulynx base development,
+
+990 H3SZSA_SRS_529;testcase_400000066;ESF 3.6 / Eulynx base development,
+
+991 H3SZSA_SRS_529;testcase_400000070;ESF 3.6 / Eulynx base development,
+
+992 H3SZSA_SRS_529;testcase_400000071;ESF 3.6 / Eulynx base development,
+
+993 H3SZSA_SRS_529;testcase_400000072;ESF 3.6 / Eulynx base development,
+
+994 H3SZSA_SRS_529;testcase_400000073;ESF 3.6 / Eulynx base development,
+
+995 H3SZSA_SRS_529;testcase_700000029;ESF 3.6 / Eulynx base development,
+
+996 H3SZSA_SRS_529;testcase_700000032;ESF 3.6 / Eulynx base development,
+
+997 H3SZSA_SRS_529;testcase_700000033;ESF 3.6 / Eulynx base development,
+
+998 H3SZSA_SRS_529;testcase_700000039;ESF 3.6 / Eulynx base development,
+
+999 H3SZSA_SRS_529;testcase_700000040;ESF 3.6 / Eulynx base development,
+
+1000 H3SZSA_SRS_529;testcase_700000042;ESF 3.6 / Eulynx base development,
+
+1001 H3SZSA_SRS_529;testcase_700000044;ESF 3.6 / Eulynx base development,
+
+1002 H3SZSA_SRS_537;testcase_700000173;ESF 3.6/Handling of load phase,
+
+1003 "H3SZSA_SRS_537;testcase_800000006;Mapping ""Initialisation Request"" (Eulynx SCI-RBC)",
+
+1004 "H3SZSA_SRS_538;testcase_800000006;Mapping ""Initialisation Start"" (Eulynx SCI-RBC)",
+
+1005 H3SZSA_SRS_538;testcase_800000007;ESF 3.6/Handling of load phase,
+
+1006 H3SZSA_SRS_539;testcase_800000007;ESF 3.6/Handling of load phase,
+
+1007 H3SZSA_SRS_537;testcase_400000074;ESF 3.6/Handling of load phase,
+
+1008 H3SZSA_SRS_538;testcase_800000008;ESF 3.6/Handling of load phase,
+
+1009 H3SZSA_SRS_538;testcase_800000009;ESF 3.6/Handling of load phase,
+
+1010 "H3SZSA_SRS_539;testcase_800000006;Mapping ""Initialisation Completed"" (Eulynx SCI-RBC)",
+
+1011 H3SZSA_SRS_539;testcase_800000008;ESF 3.6/Handling of load phase,
+
+1012 H3SZSA_SRS_539;testcase_800000009;ESF 3.6/Handling of load phase,
+
+1013 H3SZSA_SRS_546;testcase_800000013; Sender/Receiver identifier at Eulynx SCI-RBC,
+
+1014 "H3SZSA_SRS_547;testcase_800000019; Mapping ""Group Failure"" (Eulynx SCI-RBC)",
+
+1015 "H3SZSA_SRS_547;testcase_800000020; Mapping ""Group Failure"" (Eulynx SCI-RBC)",
+
+1016 "H3SZSA_SRS_547;testcase_800000021; Mapping ""Group Failure"" (Eulynx SCI-RBC)",
+
+1017 "H3SZSA_SRS_561;testcase_700000144;The [Eulynx_SCI-RBC] telegram ""Flank protection / Withdraw Flank protection""",
+
+1018 "H3SZSA_SRS_561;testcase_700000145;The [Eulynx_SCI-RBC] telegram ""Flank protection / Withdraw Flank protection""",
+
+1019 "H3SZSA_SRS_561;testcase_700000146;The [Eulynx_SCI-RBC] telegram ""Flank protection / Withdraw Flank protection""",
+
+1020 "H3SZSA_SRS_561;testcase_700000147;The [Eulynx_SCI-RBC] telegram ""Flank protection / Withdraw Flank protection""",
+
+1021 "H3SZSA_SRS_561;testcase_700000148;The [Eulynx_SCI-RBC] telegram ""Flank protection / Withdraw Flank protection""",
+
+1022 "H3SZSA_SRS_561;testcase_700000149;The [Eulynx_SCI-RBC] telegram ""Flank protection / Withdraw Flank protection""",
+
+1023 "H3SZSA_SRS_561;testcase_700000150;The [Eulynx_SCI-RBC] telegram ""Flank protection / Withdraw Flank protection""",
+
+1024 "H3SZSA_SRS_561;testcase_700000151;The [Eulynx_SCI-RBC] telegram ""Flank protection / Withdraw Flank protection""",
+
+1025 "H3SZSA_SRS_561;testcase_700000152;The [Eulynx_SCI-RBC] telegram ""Flank protection / Withdraw Flank protection""",
+
+1026 "H3SZSA_SRS_561;testcase_700000153;The [Eulynx_SCI-RBC] telegram ""Flank protection / Withdraw Flank protection""",
+
+1027 "H3SZSA_SRS_561;testcase_700000154;The [Eulynx_SCI-RBC] telegram ""Flank protection / Withdraw Flank protection""",
+
+1028 "H3SZSA_SRS_561;testcase_700000156;The [Eulynx_SCI-RBC] telegram ""Flank protection / Withdraw Flank protection""",
+
+1029 "H3SZSA_SRS_561;testcase_700000157;The [Eulynx_SCI-RBC] telegram ""Flank protection / Withdraw Flank protection""",
+
+1030 "H3SZSA_SRS_561;testcase_700000158;The [Eulynx_SCI-RBC] telegram ""Flank protection / Withdraw Flank protection""",
+
+1031 "H3SZSA_SRS_561;testcase_700000159;The [Eulynx_SCI-RBC] telegram ""Flank protection / Withdraw Flank protection""",
+
+1032 "H3SZSA_SRS_561;testcase_700000160;The [Eulynx_SCI-RBC] telegram ""Flank protection / Withdraw Flank protection""",
+
+1033 "H3SZSA_SRS_561;testcase_700000161;The [Eulynx_SCI-RBC] telegram ""Flank protection / Withdraw Flank protection""",
+
+1034 "H3SZSA_SRS_561;testcase_700000162;The [Eulynx_SCI-RBC] telegram ""Flank protection / Withdraw Flank protection""",
+
+1035 "H3SZSA_SRS_561;testcase_700000163;The [Eulynx_SCI-RBC] telegram ""Flank protection / Withdraw Flank protection""",
+
+1036 "H3SZSA_SRS_561;testcase_700000164;The [Eulynx_SCI-RBC] telegram ""Flank protection / Withdraw Flank protection""",
+
+1037 "H3SZSA_SRS_561;testcase_700000165;The [Eulynx_SCI-RBC] telegram ""Flank protection / Withdraw Flank protection""",
+
+1038 "H3SZSA_SRS_561;testcase_700000166;The [Eulynx_SCI-RBC] telegram ""Flank protection / Withdraw Flank protection""",
+
+1039 "H3SZSA_SRS_561;testcase_700000167;The [Eulynx_SCI-RBC] telegram ""Flank protection / Withdraw Flank protection""",
+
+1040 "H3SZSA_SRS_561;testcase_700000168;The [Eulynx_SCI-RBC] telegram ""Flank protection / Withdraw Flank protection""",
+
+1041 "H3SZSA_SRS_561;testcase_700000169;The [Eulynx_SCI-RBC] telegram ""Flank protection / Withdraw Flank protection""",
+
+1042 "H3SZSA_SRS_561;testcase_700000170;The [Eulynx_SCI-RBC] telegram ""Flank protection / Withdraw Flank protection""",
+
+1043 "H3SZSA_SRS_561;testcase_700000171;The [Eulynx_SCI-RBC] telegram ""Flank protection / Withdraw Flank protection""",
+
+1044 "H3SZSA_SRS_561;testcase_400000174;The [Eulynx_SCI-RBC] telegram ""Flank protection / Withdraw Flank protection""",
+
+1045 "H3SZSA_SRS_561;testcase_700000143;The [Eulynx_SCI-RBC] telegram ""Flank protection / Withdraw Flank protection""",
+
+1046 "H3SZSA_SRS_561;testcase_800000006;The [Eulynx_SCI-RBC] telegram ""Flank protection / Withdraw Flank protection""",
+
+1047 "H3SZSA_SRS_561;testcase_800000007;The [Eulynx_SCI-RBC] telegram ""Flank protection / Withdraw Flank protection""",
+
+1048 "H3SZSA_SRS_566;testcase_800000046;Non supported ""TSR Ack"" telegram",
+
+1049 H3SZSA_SRS_548;testcase_800000010;ESF 3.6/Implementation of Eulynx Point telegram,
+
+1050 H3SZSA_SRS_548;testcase_800000011;ESF 3.6/Implementation of Eulynx Point telegram,
+
+1051 H3SZSA_SRS_548;testcase_800000012;ESF 3.6/Implementation of Eulynx Point telegram,
+
+1052 H3SZSA_SRS_548;testcase_800000033;Mapping of Point status(Eulynx SCI-RBC),
+
+1053 H3SZSA_SRS_548;testcase_800000052;Mapping of Point status(Eulynx SCI-RBC),
+
+1054 H3SZSA_SRS_548;testcase_800000005;Mapping of Point status(Eulynx SCI-RBC),
+
+1055 H3SZSA_SRS_548;testcase_400000009;Mapping of Point status(Eulynx SCI-RBC),
+
+1056 "H3SZSA_SRS_549;testcase_800000015;""Mapping ""Signal Status"" (Eulynx SCI-RBC)""",
+
+1057 "H3SZSA_SRS_549;testcase_800000015;""Mapping ""Signal Status"" (Eulynx SCI-RBC)""",
+
+1058 "H3SZSA_SRS_549;testcase_800000016;""Mapping ""Signal Status"" (Eulynx SCI-RBC)""",
+
+1059 "H3SZSA_SRS_504;testcase_800000010;""Forwarding of ""called""indications for points (Eulynx SCI-RBC)""",
+
+1060 "H3SZSA_SRS_504;testcase_800000011;""Forwarding of ""called""indications for points (Eulynx SCI-RBC)""",
+
+1061 "H3SZSA_SRS_504;testcase_800000012;""Forwarding of ""called""indications for points (Eulynx SCI-RBC)""",
+
+1062 "H3SZSA_SRS_504;testcase_800000033;""Forwarding of ""called""indications for points (Eulynx SCI-RBC)""",
+
+1063 "H3SZSA_SRS_504;testcase_800000052;""Forwarding of ""called""indications for points (Eulynx SCI-RBC)""",
+
+1064 "H3SZSA_SRS_504;testcase_800000005;""Forwarding of ""called""indications for points (Eulynx SCI-RBC)""",
+
+1065 "H3SZSA_SRS_504;testcase_400000009;""Forwarding of ""called""indications for points (Eulynx SCI-RBC)""",
+
+1066 H3SZSA_SRS_432;testcase_700000172;Relevant state information for flank protection,
+
+1067 "H3SZSA_SRS_561;testcase_700000173;The [Eulynx_SCI-RBC] telegram ""Flank protection / Withdraw Flank protection""",
+
+1068 "H3SZSA_SRS_503;testcase_800000013;Forwarding of ""called"" indications for signals(Eulynx)",
+
+1069 H3SZSA_SRS_510;testcase_800000014;Upgrading Signal Aspects(Eulynx),
+
+1079 "H3SZSA_SRS_514; testcase_600000036,testcase_600000036.cpp; Mapping ""Sammelausfallmeldung"" (H3SZS)",
+
+1080 "H3SZSA_SRS_514;testcase_600000002,testcase_600000002.cpp; Mapping ""Sammelausfallmeldung"" (H3SZS)",
+
+1081 "H3SZSA_SRS_514;testcase_600000003,testcase_600000003.cpp; Mapping ""Sammelausfallmeldung"" (H3SZS)",
+
+1082 "H3SZSA_SRS_514;testcase_600000005,testcase_600000005.cpp; Mapping ""Sammelausfallmeldung"" (H3SZS)",
+
+1083 "H3SZSA_SRS_514;testcase_600000006,testcase_600000006.cpp; Mapping ""Sammelausfallmeldung"" (H3SZS)",
+
+1084 "H3SZSA_SRS_514;testcase_600000009,testcase_600000009.cpp; Mapping ""Sammelausfallmeldung"" (H3SZS)",
+
+1085 "H3SZSA_SRS_514;testcase_600000035,testcase_600000035.cpp; Mapping ""Sammelausfallmeldung"" (H3SZS)",
+
+1086 "H3SZSA_SRS_515;testcase_600000001,testcase_600000001.cpp;Mapping ""ESTW-Meldetelegramm: Weichen"" (H3SZS)",
+
+1087 "H3SZSA_SRS_515;testcase_600000010,testcase_600000010.cpp;Mapping ""ESTW-Meldetelegramm: Weichen"" (H3SZS)",
+
+1088 "H3SZSA_SRS_515;testcase_600000011,testcase_600000011.cpp;Mapping ""ESTW-Meldetelegramm: Weichen"" (H3SZS)",
+
+1089 "H3SZSA_SRS_515;testcase_600000012,testcase_600000012.cpp;Mapping ""ESTW-Meldetelegramm: Weichen"" (H3SZS)",
+
+1090 "H3SZSA_SRS_515;testcase_600000013,testcase_600000013.cpp;Mapping ""ESTW-Meldetelegramm: Weichen"" (H3SZS)",
+
+1091 "H3SZSA_SRS_515;testcase_600000035,testcase_600000035.cpp;Mapping ""ESTW-Meldetelegramm: Weichen"" (H3SZS)",
+
+1092 "H3SZSA_SRS_515;testcase_600000036,testcase_600000036.cpp;Mapping ""ESTW-Meldetelegramm: Weichen"" (H3SZS)",
+
+1093 "H3SZSA_SRS_515;testcase_600000043,testcase_600000043.cpp;Mapping ""ESTW-Meldetelegramm: Weichen"" (H3SZS)",
+
+1094 "H3SZSA_SRS_516;testcase_600000001;Mapping ""ESTW-Meldetelegramm: Signale"" (H3SZS)",
+
+1095 "H3SZSA_SRS_516;testcase_600000022;Mapping ""ESTW-Meldetelegramm: Signale"" (H3SZS)",
+
+1096 "H3SZSA_SRS_516;testcase_600000028;Mapping ""ESTW-Meldetelegramm: Signale"" (H3SZS)",
+
+1097 "H3SZSA_SRS_516;testcase_600000035;Mapping ""ESTW-Meldetelegramm: Signale"" (H3SZS)",
+
+1098 "H3SZSA_SRS_517;testcase_400000039;Mapping ""ZSS-Kommando: Stellanstoß"" (H3SZS)",
+
+1099 "H3SZSA_SRS_517;testcase_400000040;Mapping ""ZSS-Kommando: Stellanstoß"" (H3SZS)",
+
+1100 "H3SZSA_SRS_517;testcase_400000041;Mapping ""ZSS-Kommando: Stellanstoß"" (H3SZS)",
+
+1101 "H3SZSA_SRS_518;testcase_500000001,testcase_500000001.cpp;Mapping ""Aufrüstanforderung"" (Neupro SCI-RBC)",
+
+1102 "H3SZSA_SRS_518;testcase_500000038,testcase_500000038.cpp;Mapping ""Aufrüstanforderung"" (Neupro SCI-RBC)",
+
+1103 "H3SZSA_SRS_518;testcase_500000043,testcase_500000043.cpp;Mapping ""Aufrüstanforderung"" (Neupro SCI-RBC)",
+
+1104 "H3SZSA_SRS_518;testcase_500000048,testcase_500000048.cpp;Mapping ""Aufrüstanforderung"" (Neupro SCI-RBC)",
+
+1105 "H3SZSA_SRS_519;testcase_500000001,testcase_500000001.cpp;Mapping ""Aufrüstanfang"" (Neupro SCI-RBC)",
+
+1106 "H3SZSA_SRS_519;testcase_500000038,testcase_500000038.cpp;Mapping ""Aufrüstanfang"" (Neupro SCI-RBC)",
+
+1107 "H3SZSA_SRS_519;testcase_500000043,testcase_500000043.cpp;Mapping ""Aufrüstanfang"" (Neupro SCI-RBC)",
+
+1108 "H3SZSA_SRS_519;testcase_500000048,testcase_500000048.cpp;Mapping ""Aufrüstanfang"" (Neupro SCI-RBC)",
+
+1109 "H3SZSA_SRS_520;testcase_500000001,testcase_500000001.cpp;Mapping ""Aufrüstende"" (Neupro SCI-RBC)",
+
+1110 "H3SZSA_SRS_520;testcase_500000038,testcase_500000038.cpp;Mapping ""Aufrüstende"" (Neupro SCI-RBC)",
+
+1111 "H3SZSA_SRS_520;testcase_500000043,testcase_500000043.cpp;Mapping ""Aufrüstende"" (Neupro SCI-RBC)",
+
+1112 "H3SZSA_SRS_520;testcase_500000048,testcase_500000048.cpp;Mapping ""Aufrüstende"" (Neupro SCI-RBC)",
+
+1113 "H3SZSA_SRS_521;testcase_500000038;Mapping ""Sammelausfallmeldung"" (Neupro SCI-RBC)",
+
+1114 "H3SZSA_SRS_521;testcase_500000039;Mapping ""Sammelausfallmeldung"" (Neupro SCI-RBC)",
+
+1115 "H3SZSA_SRS_521;testcase_500000041;Mapping ""Sammelausfallmeldung"" (Neupro SCI-RBC)",
+
+1116 "H3SZSA_SRS_521;testcase_500000042;Mapping ""Sammelausfallmeldung"" (Neupro SCI-RBC)",
+
+1117 "H3SZSA_SRS_522;testcase_500000010,testcase_500000010.cpp;Mapping ""ESTW-ZE-Meldetelegramm Weichen"" (Neupro SCI-RBC)",
+
+1118 "H3SZSA_SRS_522;testcase_500000013,testcase_500000013.cpp;Mapping ""ESTW-ZE-Meldetelegramm Weichen"" (Neupro SCI-RBC)",
+
+1119 "H3SZSA_SRS_522;testcase_500000019,testcase_500000019.cpp;Mapping ""ESTW-ZE-Meldetelegramm Weichen"" (Neupro SCI-RBC)",
+
+1120 "H3SZSA_SRS_522;testcase_500000050,testcase_500000050.cpp;Mapping ""ESTW-ZE-Meldetelegramm Weichen"" (Neupro SCI-RBC)",
+
+1121 "H3SZSA_SRS_522;testcase_500000051,testcase_500000051.cpp;Mapping ""ESTW-ZE-Meldetelegramm Weichen"" (Neupro SCI-RBC)",
+
+1122 "H3SZSA_SRS_523;testcase_500000002,testcase_500000002.cpp;Mapping ""ESTW-ZE-Meldetelegramm Signale"" (Neupro SCI-RBC)",
+
+1123 "H3SZSA_SRS_523;testcase_500000022,testcase_500000022.cpp;Mapping ""ESTW-ZE-Meldetelegramm Signale"" (Neupro SCI-RBC)",
+
+1124 "H3SZSA_SRS_523;testcase_500000033,testcase_500000033.cpp;Mapping ""ESTW-ZE-Meldetelegramm Signale"" (Neupro SCI-RBC)",
+
+1125 "H3SZSA_SRS_523;testcase_500000038,testcase_500000038.cpp;Mapping ""ESTW-ZE-Meldetelegramm Signale"" (Neupro SCI-RBC)",
+
+1126 "H3SZSA_SRS_523;testcase_500000039,testcase_500000039.cpp;Mapping ""ESTW-ZE-Meldetelegramm Signale"" (Neupro SCI-RBC)",
+
+1127 "H3SZSA_SRS_523;testcase_500000040,testcase_500000040.cpp;Mapping ""ESTW-ZE-Meldetelegramm Signale"" (Neupro SCI-RBC)",
+
+1128 "H3SZSA_SRS_523;testcase_500000041,testcase_500000041.cpp;Mapping ""ESTW-ZE-Meldetelegramm Signale"" (Neupro SCI-RBC)",
+
+1129 "H3SZSA_SRS_523;testcase_500000042,testcase_500000042.cpp;Mapping ""ESTW-ZE-Meldetelegramm Signale"" (Neupro SCI-RBC)",
+
+1130 "H3SZSA_SRS_523;testcase_500000043,testcase_500000043.cpp;Mapping ""ESTW-ZE-Meldetelegramm Signale"" (Neupro SCI-RBC)",
+
+1131 "H3SZSA_SRS_523;testcase_500000046,testcase_500000046.cpp;Mapping ""ESTW-ZE-Meldetelegramm Signale"" (Neupro SCI-RBC)",
+
+1132 "H3SZSA_SRS_523;testcase_500000047,testcase_500000047.cpp;Mapping ""ESTW-ZE-Meldetelegramm Signale"" (Neupro SCI-RBC)",
+
+1133 "H3SZSA_SRS_523;testcase_500000048,testcase_500000048.cpp;Mapping ""ESTW-ZE-Meldetelegramm Signale"" (Neupro SCI-RBC)",
+
+1134 "H3SZSA_SRS_523;testcase_500000050,testcase_500000050.cpp;Mapping ""ESTW-ZE-Meldetelegramm Signale"" (Neupro SCI-RBC)",
+
+1135 "H3SZSA_SRS_523;testcase_500000052,testcase_500000052.cpp;Mapping ""ESTW-ZE-Meldetelegramm Signale"" (Neupro SCI-RBC)",
+
+1136 "H3SZSA_SRS_523;testcase_500000053,testcase_500000053.cpp;Mapping ""ESTW-ZE-Meldetelegramm Signale"" (Neupro SCI-RBC)",
+
+1137 "H3SZSA_SRS_523;testcase_500000054,testcase_500000054.cpp;Mapping ""ESTW-ZE-Meldetelegramm Signale"" (Neupro SCI-RBC)",
+
+1138 "H3SZSA_SRS_523;testcase_500000055,testcase_500000055.cpp;Mapping ""ESTW-ZE-Meldetelegramm Signale"" (Neupro SCI-RBC)",
+
+1139 "H3SZSA_SRS_523;testcase_500000056,testcase_500000056.cpp;Mapping ""ESTW-ZE-Meldetelegramm Signale"" (Neupro SCI-RBC)",
+
+1140 "H3SZSA_SRS_523;testcase_500000057,testcase_500000057.cpp;Mapping ""ESTW-ZE-Meldetelegramm Signale"" (Neupro SCI-RBC)",
+
+1141 "H3SZSA_SRS_523;testcase_500000058,testcase_500000058.cpp;Mapping ""ESTW-ZE-Meldetelegramm Signale"" (Neupro SCI-RBC)",
+
+1142 "H3SZSA_SRS_524; testcase_500000002; Mapping ""Stellanstoß"" (Neupro SCI-RBC)",
+
+1143 "H3SZSA_SRS_524; testcase_700000032; Mapping ""Stellanstoß"" (Neupro SCI-RBC)",
+
+1144 "H3SZSA_SRS_524; testcase_700000056; Mapping ""Stellanstoß"" (Neupro SCI-RBC)",
+
+1145 "H3SZSA_SRS_524; testcase_700000059; Mapping ""Stellanstoß"" (Neupro SCI-RBC)",
+
+1146 "H3SZSA_SRS_524; testcase_700000138; Mapping ""Stellanstoß"" (Neupro SCI-RBC)",
+
+1147 "H3SZSA_SRS_503;testcase_800000015;Forwarding of ""called"" indications for signals(Eulynx)",
+
+1148 "H3SZSA_SRS_503;testcase_800000016;Forwarding of ""called"" indications for signals(Eulynx)",
+
+1149 "H3SZSA_SRS_503;testcase_800000017;Forwarding of ""called"" indications for signals(Eulynx)",
+
+1150 "H3SZSA_SRS_503;testcase_800000018;Forwarding of ""called"" indications for signals(Eulynx)",
+
+1151 H3SZSA_SRS_119;testcase_800000019;Handling of general failure telegram(Eulynx),
+
+1152 H3SZSA_SRS_119;testcase_800000020;Handling of general failure telegram(Eulynx),
+
+1153 H3SZSA_SRS_119;testcase_800000021;Handling of general failure telegram(Eulynx),
+
+1154 H3SZSA_SRS_119;testcase_800000022;Handling of general failure telegram(Eulynx),
+
+1155 "H3SZSA_SRS_595;testcase_800000023;[Eulynx_SCI-RBC] ""Destination signal monitoring""",
+
+1156 "H3SZSA_SRS_595;testcase_800000024;[Eulynx_SCI-RBC] ""Destination signal monitoring""",
+
+1157 H3SZSA_SRS_161;testcase_700000174;Sending of flank protection information,
+
+1158 H3SZSA_SRS_161;testcase_700000175;Sending of flank protection information,
+
+1159 H3SZSA_SRS_161;testcase_700000176;Sending of flank protection information,
+
+1160 H3SZSA_SRS_161;testcase_700000177;Sending of flank protection information,
+
+1161 H3SZSA_SRS_161;testcase_700000178;Sending of flank protection information,
+
+1162 H3SZSA_SRS_161;testcase_700000179;Sending of flank protection information,
+
+1163 H3SZSA_SRS_161;testcase_700000180;Sending of flank protection information,
+
+1164 H3SZSA_SRS_161;testcase_700000181;Sending of flank protection information,
+
+1165 H3SZSA_SRS_123;testcase_800000025;Conversion of TBV information(Eulynx SCI-RBC),
+
+1166 H3SZSA_SRS_122;testcase_800000026;Conversion of overlap and speed information(Eulynx SCI-RBC),
+
+1167 H3SZSA_SRS_123;testcase_800000027;Conversion of TBV information(Eulynx SCI-RBC),
+
+1168 H3SZSA_SRS_122;testcase_800000028;Conversion of overlap and speed information(Eulynx SCI-RBC),
+
+1169 H3SZSA_SRS_122;testcase_800000029;Conversion of overlap and speed information(Eulynx SCI-RBC),
+
+1170 H3SZSA_SRS_123;testcase_800000030;Conversion of TBV information(Eulynx SCI-RBC),
+
+1171 H3SZSA_SRS_595;testcase_800000031;Destination signal monitoring(Eulynx SCI-RBC),
+
+1172 "H3SZSA_SRS_596;testcase_800000023;""Reason for start signal replacement to stop""",
+
+1173 "H3SZSA_SRS_596;testcase_800000024;""Reason for start signal replacement to stop""",
+
+1174 H3SZSA_SRS_597;testcase_800000013;Eulynx-IXL sends invalid 'Protocol Type'.,
+
+1175 "H3SZSA_SRS_130;testcase_400000009;""Removing of """"called"""" indications for signals""",
+
+1176 "H3SZSA_SRS_550;testcase_800000032;Mapping ""LX Status"" (Eulynx SCI-RBC)",
+
+1177 "H3SZSA_SRS_550;testcase_800000033;Mapping ""LX Status"" (Eulynx SCI-RBC)",
+
+1178 "H3SZSA_SRS_550;testcase_800000034;Mapping ""LX Status"" (Eulynx SCI-RBC)",
+
+1179 "H3SZSA_SRS_550;testcase_800000064;Mapping ""LX Status"" (Eulynx SCI-RBC)",
+
+1180 "H3SZSA_SRS_550;testcase_100000001;Mapping ""LX Status"" (Eulynx SCI-RBC)",
+
+1181 "H3SZSA_SRS_550;testcase_100000004;Mapping ""LX Status"" (Eulynx SCI-RBC)",
+
+1182 "H3SZSA_SRS_550;testcase_100000005;Mapping ""LX Status"" (Eulynx SCI-RBC)",
+
+1183 "H3SZSA_SRS_559;testcase_800000035;Mapping ""Signal Control""",
+
+1184 "H3SZSA_SRS_573;testcase_800000036;Mapping ""Signal Reply"" MA bit (Eulynx SCI-RBC),,",
+
+1185 "H3SZSA_SRS_573;testcase_800000037;Mapping ""Signal Reply"" MA bit (Eulynx SCI-RBC),,",
+
+1186 H3SZSA_SRS_582; testcase_800000015; Valid signal aspect codes (Eulynx SCI-RBC),
+
+1187 H3SZSA_SRS_582; testcase_800000016; Valid signal aspect codes (Eulynx SCI-RBC),
+
+1188 H3SZSA_SRS_582; testcase_800000017; Valid signal aspect codes (Eulynx SCI-RBC),
+
+1189 "H3SZSA_SRS_571;testcase_100000017;Mapping ""Signal Reply"" TSS bit (Eulynx SCI-RBC),,",
+
+1190 "H3SZSA_SRS_571;testcase_800000038;Mapping ""Signal Reply"" TSS bit (Eulynx SCI-RBC),,",
+
+1191 "H3SZSA_SRS_571;testcase_800000039;Mapping ""Signal Reply"" TSS bit (Eulynx SCI-RBC),,",
+
+1192 "H3SZSA_SRS_571;testcase_800000040;Mapping ""Signal Reply"" TSS bit (Eulynx SCI-RBC),,",
+
+1193 "H3SZSA_SRS_571;testcase_800000041;Mapping ""Signal Reply"" TSS bit (Eulynx SCI-RBC),,",
+
+1194 "H3SZSA_SRS_571;testcase_800000042;Mapping ""Signal Reply"" TSS bit (Eulynx SCI-RBC),,",
+
+1195 "H3SZSA_SRS_571;testcase_800000043;Mapping ""Signal Reply"" TSS bit (Eulynx SCI-RBC),,",
+
+1196 "H3SZSA_SRS_571;testcase_800000044;Mapping ""Signal Reply"" TSS bit (Eulynx SCI-RBC),,",
+
+1197 "H3SZSA_SRS_571;testcase_800000045;Mapping ""Signal Reply"" TSS bit (Eulynx SCI-RBC),,",
+
+1198 "H3SZSA_SRS_567;testcase_400000009;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+1199 "H3SZSA_SRS_567;testcase_400000074;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+1200 "H3SZSA_SRS_567;testcase_700000143;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+1201 "H3SZSA_SRS_567;testcase_700000144;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+1202 "H3SZSA_SRS_567;testcase_700000145;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+1203 "H3SZSA_SRS_567;testcase_700000146;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+1204 "H3SZSA_SRS_567;testcase_700000147;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+1205 "H3SZSA_SRS_567;testcase_700000148;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+1206 "H3SZSA_SRS_567;testcase_700000149;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+1207 "H3SZSA_SRS_567;testcase_700000150;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+1208 "H3SZSA_SRS_567;testcase_700000151;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+1209 "H3SZSA_SRS_567;testcase_700000152;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+1210 "H3SZSA_SRS_567;testcase_700000153;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+1211 "H3SZSA_SRS_567;testcase_700000154;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+1212 "H3SZSA_SRS_567;testcase_700000155;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+1213 "H3SZSA_SRS_567;testcase_700000156;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+1214 "H3SZSA_SRS_567;testcase_700000157;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+1215 "H3SZSA_SRS_567;testcase_700000158;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+1216 "H3SZSA_SRS_567;testcase_700000159;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+1217 "H3SZSA_SRS_567;testcase_700000160;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+1218 "H3SZSA_SRS_567;testcase_700000161;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+1219 "H3SZSA_SRS_567;testcase_700000162;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+1220 "H3SZSA_SRS_567;testcase_700000163;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+1221 "H3SZSA_SRS_567;testcase_700000164;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+1222 "H3SZSA_SRS_567;testcase_700000165;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+1223 "H3SZSA_SRS_567;testcase_700000166;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+1224 "H3SZSA_SRS_567;testcase_700000167;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+1225 "H3SZSA_SRS_567;testcase_700000168;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+1226 "H3SZSA_SRS_567;testcase_700000169;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+1227 "H3SZSA_SRS_567;testcase_700000170;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+1228 "H3SZSA_SRS_567;testcase_700000171;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+1229 "H3SZSA_SRS_567;testcase_700000172;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+1230 "H3SZSA_SRS_567;testcase_700000173;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+1231 "H3SZSA_SRS_567;testcase_700000174;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+1232 "H3SZSA_SRS_567;testcase_700000175;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+1233 "H3SZSA_SRS_567;testcase_700000176;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+1234 "H3SZSA_SRS_567;testcase_700000177;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+1235 "H3SZSA_SRS_567;testcase_700000178;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+1236 "H3SZSA_SRS_567;testcase_700000179;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+1237 "H3SZSA_SRS_567;testcase_700000180;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+1238 "H3SZSA_SRS_567;testcase_700000181;Handling ""PDI-Version check"" (Eulynx SCI-XX)",
+
+1239 "H3SZSA_SRS_556;testcase_800000046;Non supported ""TVP Section Status"" telegram",
+
+1240 "H3SZSA_SRS_557;testcase_800000046;Non supported ""Route Status"" telegram",
+
+1241 "H3SZSA_SRS_553;testcase_100000001;Mapping ""LSA Status"" (Eulynx SCI-RBC)",
+
+1242 "H3SZSA_SRS_553;testcase_100000004;Mapping ""LSA Status"" (Eulynx SCI-RBC)",
+
+1243 "H3SZSA_SRS_553;testcase_800000047;Mapping ""LSA Status"" (Eulynx SCI-RBC)",
+
+1244 "H3SZSA_SRS_551; testcase_800000051; Mapping ""IO Element Status"" (Eulynx SCI-RBC)",
+
+1245 "H3SZSA_SRS_551; testcase_800000052; Mapping ""IO Element Status"" (Eulynx SCI-RBC)",
+
+1246 "H3SZSA_SRS_551; testcase_800000053; Mapping ""IO Element Status"" (Eulynx SCI-RBC)",
+
+1247 H3SZSA_SRS_122;testcase_500000056;Conversion of overlap and speed information,
+
+1248 H3SZSA_SRS_122;testcase_500000057;Conversion of overlap and speed information,
+
+1249 H3SZSA_SRS_122;testcase_500000058;Conversion of overlap and speed information,
+
+1251 H3SZSA_SRS_119;testcase_800000055;Handling of general failure/group failure telegram,
+
+1252 "H3SZSA_SRS_555; testcase_800000054; Mapping ""ESA Status"" (Eulynx SCI-RBC)",
+
+1253 "H3SZSA_SRS_569; testcase_800000048; Mapping ""Signal cancelling"" (Eulynx SCI-XX)",
+
+1254 "H3SZSA_SRS_570; testcase_800000048; Mapping ""Signal cancelling reply"" (Eulynx SCI-XX)",
+
+1255 "H3SZSA_SRS_570; testcase_800000049; Mapping ""Signal cancelling reply"" (Eulynx SCI-XX)",
+
+1256 "H3SZSA_SRS_570; testcase_800000050; Mapping ""Signal cancelling reply"" (Eulynx SCI-XX)",
+
+1257 "H3SZSA_SRS_552; testcase_800000060; Mapping WA Status"" (Eulynx SCI-RBC)""",
+
+1258 "H3SZSA_SRS_552; testcase_800000061; Mapping WA Status"" (Eulynx SCI-RBC)""",
+
+1259 "H3SZSA_SRS_552; testcase_800000062; Mapping WA Status"" (Eulynx SCI-RBC)""",
+
+1260 "H3SZSA_SRS_552; testcase_800000063; Mapping WA Status"" (Eulynx SCI-RBC)""",
+
+1261 H3SZSA_SRS_354; testcase_400000043; H3SZS-Adapter: Harmonize actions in case of unknown element index reported from ESF Master,
+
+1262 H3SZSA_SRS_632;testcase_800000046;Route Cancelling(Eulynx SCI_XX),
+
+Total corrections :  365
