@@ -1,5 +1,6 @@
 import utils
 import parsers
+from smtplib import SMTP
 def test_parsers():
     parsers.parse_xml()
 

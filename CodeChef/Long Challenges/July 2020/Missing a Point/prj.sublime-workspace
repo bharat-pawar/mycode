@@ -16,11 +16,13 @@
 	"buffers":
 	[
 		{
+			"contents": "#include <iostream>\n#include<unordered_map>\n#include<set>\n#include<algorithm>\n#include<map>\nusing namespace std;\n\n#define mytemplate true\nclass Solution {\npublic:\n    /*string reformatDate(string date) {\n        unordered_map<string,string> month_map = {{\"Jan\",\"01\"}, {\"Feb\",\"02\"}, {\"Mar\",\"03\"}, {\"Apr\",\"04\"}, {\"May\",\"05\"}, \n        {\"Jun\",\"06\"}, {\"Jul\",\"07\"}, {\"Aug\",\"08\"}, {\"Sep\",\"09\"}, {\"Oct\",\"10\"}, {\"Nov\",\"11\"}, {\"Dec\",\"12\"}};\n        int i = 1;       \n     */ \n\n};\n\nint solve (int n, string s) {\n   int result_count = 0;\n   for(int i = 0; i < n; i++) {\n      for(int j = i; j < n; j++) {\n      \tstring str = s.substr(i,j-1cu);\n      \tif(count(begin(str),end(str),'a') > count(begin(str),end(str),'c')) {\n      \t\tcout<<str<<endl;      \t\t    \t\t\n      \t\tresult_count++;\n      \t}\n      }\n   }\n   cout<<result_count<<endl;\n   return result_count;   \n}\n\n\nint main(int argc, char const *argv[])\n{\n\n#if mytemplate\n\n\tfreopen(\"input.txt\",\"r\",stdin);\n\tfreopen(\"output.txt\",\"w\",stdout);\n\tfreopen(\"error.txt\",\"w\",stderr);\n\tios::sync_with_stdio(false);\n\tcin.tie(NULL);\n\tcout.tie(NULL);\n\tcerr.tie(NULL);\n\n#endif\n\n\tcout<<solve(7,\"abccaab\")<<endl;\n/*\tSolution sol;\n\tstring s1;\n\ts1 = \"20th Oct 2052\";\n\tcout<<\"Result : \"<<sol.reformatDate(s1)<<endl;\n\ts1 = \"6th Jun 1933\";\n\tcout<<\"Result : \"<<sol.reformatDate(s1)<<endl;\n\ts1 = \"26th May 1960\";\n\tcout<<\"Result : \"<<sol.reformatDate(s1)<<endl;\n*/\n\treturn 0;\n}\n",
 			"file": "source.cpp",
+			"file_size": 1453,
+			"file_write_time": 132390067615336935,
 			"settings":
 			{
-				"buffer_size": 803,
-				"encoding": "UTF-8",
+				"buffer_size": 1394,
 				"line_ending": "Windows"
 			}
 		},
@@ -28,7 +30,7 @@
 			"file": "input.txt",
 			"settings":
 			{
-				"buffer_size": 29,
+				"buffer_size": 40,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -45,7 +47,7 @@
 			"file": "output.txt",
 			"settings":
 			{
-				"buffer_size": 10,
+				"buffer_size": 51,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -183,21 +185,22 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 803,
+						"buffer_size": 1394,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								331,
-								331
+								138,
+								138
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/C++/C++.sublime-syntax",
-							"translate_tabs_to_spaces": false
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -218,15 +221,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 29,
+						"buffer_size": 40,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								29
+								40,
+								0
 							]
 						],
 						"settings":
@@ -237,7 +240,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -286,15 +289,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 10,
+						"buffer_size": 51,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4,
-								0
+								11,
+								11
 							]
 						],
 						"settings":
@@ -302,10 +305,10 @@
 							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 140.8,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -365,7 +368,7 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 119.0
+		"height": 220.0
 	},
 	"output.find_results":
 	{
